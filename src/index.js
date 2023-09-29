@@ -77,8 +77,8 @@ function Menu() {
       {numPizzas > 0 ? (
         <>
           <p>
-            Aunthetic Itilain Cuisine. 6 creative duishes to choose from. All
-            form over stone over, all organic, all delicious
+            Aunthetic Itilain Cuisine. duishes to choose from. All form over
+            stone over, all organic, all delicious
           </p>
           <ul className='pizzas'>
             {pizzaData.map((pizza) => (
